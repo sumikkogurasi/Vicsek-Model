@@ -1,7 +1,8 @@
-# Vicsek-Model
-#Vicsek Modelって何？
+# Vicsek Modelって何？
 群れモデルです。
+
 https://en.wikipedia.org/wiki/Vicsek_model
+
 # 操作方法
 操作メニューはエスケープキーを押すことで表示されます。
 現状全探索でO(N^2)です。なので粒子数が増えると計算量が指数的に増えます。
@@ -12,9 +13,9 @@ https://en.wikipedia.org/wiki/Vicsek_model
 
 https://guava.physics.uiuc.edu/~nigel/courses/563/Essays_2017/PDF/Chatterjee.pdf
 
-# Vicsek-Model
-#What is Vicsek Model?
+# What is Vicsek Model?
 This is a swarm model.
+
 https://en.wikipedia.org/wiki/Vicsek_model
 
 # How to use
