@@ -1,7 +1,9 @@
 # Vicsek-Model
 魚群モデル
-エスケープキーを押して操作メニューを開く。
+エスケープキーを押して操作メニューを開けます。
+現状全探索でO(N^2)です。なので粒子数が増えると計算量が指数的に増えます。
+今後の課題です。
 
-[![](https://img.youtube.com/vi/lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521/0.jpg)](https://www.youtube.com/watch?v=lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521)
-
+Currently, the total search is O(N^2). So the computational complexity increases exponentially as the number of particles increases.
+This is an issue for the future.
 Press the escape key to open the menu.
