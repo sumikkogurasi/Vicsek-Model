@@ -2,7 +2,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521/0.jpg)](https://www.youtube.com/watch?v=lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521)
 
-# Vicsek Modelって何？
+# Vicsek modelって何？
 群れモデルです。
 
 https://en.wikipedia.org/wiki/Vicsek_model
@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Vicsek_model
 
 https://guava.physics.uiuc.edu/~nigel/courses/563/Essays_2017/PDF/Chatterjee.pdf
 
-# What is Vicsek Model?
+# What is Vicsek model?
 This is a swarm model.
 
 https://en.wikipedia.org/wiki/Vicsek_model
