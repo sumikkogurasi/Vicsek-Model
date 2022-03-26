@@ -1,7 +1,8 @@
 # プレイ動画
 
-[![Pipulate Youtube Playlist](https://img.youtube.com/vi/lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521/0.jpg)](https://www.youtube.com/watch?v=lqLqJnP4768&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521)
-
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lqLqJnP4768" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 # Vicsek modelって何？
 群れモデルです。
 
