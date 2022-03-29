@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Vicsek_model
 
 # How to use
 The operation menu is displayed by pressing the escape key.
-Currently, the total search is O(N^2). Therefore, the amount of calculation increases rapidly as the number of particles increases.
+Currently, the total search is O(N^2). Therefore, the amount of calculation increases rapidly as the number of particles increases. This is an issue for the future.
 
 # Reference
 The following paper was used as a reference. The scale of parameters is adapted to the paper. Please calculate the density ρ=N/(L^2) by yourself.
