@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Vicsek_model
 
 # 操作方法
 操作メニューはエスケープキーを押すことで表示されます。
-現状全探索でO(N^2)です。なので粒子数が増えると計算量が指数的に増えます。
+現状全探索でO(N^2)です。なので粒子数が増えると計算量が急激に増えます。
 今後の課題です。
 
 # 出典
@@ -23,9 +23,8 @@ This is a swarm model.
 https://en.wikipedia.org/wiki/Vicsek_model
 
 # How to use
-Currently, the total search is O(N^2). So the computational complexity increases exponentially as the number of particles increases.
-This is an issue for the future.
-Press the escape key to open the menu.
+The operation menu is displayed by pressing the escape key.
+Currently, the total search is O(N^2). Therefore, the amount of calculation increases rapidly as the number of particles increases.
 
 # Reference
 The following paper was used as a reference. The scale of parameters is adapted to the paper. Please calculate the density ρ=N/(L^2) by yourself.
